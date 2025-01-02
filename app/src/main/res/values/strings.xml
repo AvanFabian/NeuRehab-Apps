@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NeuRehab</string>
+    <string name="title_activity_heart_rate">HeartRateActivity</string>
+    <string name="activity_screen">Activity Screen</string>
+    <string name="heart_rate_screen">Heart Rate Screen</string>
+    <string name="history_screen">History Screen</string>
+    <string name="select_day">Select a day to show your result</string>
+    <string name="title_activity_homepage">@string/app_name</string>
+</resources>

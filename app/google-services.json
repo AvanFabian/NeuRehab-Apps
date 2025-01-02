@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "716952738835",
+    "firebase_url": "https://neurehab-1de6d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "neurehab-1de6d",
+    "storage_bucket": "neurehab-1de6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716952738835:android:99158da18261112d0a33e6",
+        "android_client_info": {
+          "package_name": "xyz.themanusia.pkm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgD9oUMX40FckSATF0lZiU-e-AqMekNoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
